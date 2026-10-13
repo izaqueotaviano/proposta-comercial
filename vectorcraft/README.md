@@ -21,6 +21,6 @@ Não precisa de senha de administrador. Para desinstalar: *Configurações › A
 ## SHA-256
 
 ```
-7cea5b59ad1827b9063739e3d1e149bf9e7a11759fe86dda799e718a83688ce2  VectorCraft-0.10.0-Windows-x64-Setup.exe
-e090bd1a7ed1b353bac91baa64f5527e9e43d50cc70287d61f12d191a69f1645  VectorCraft-0.10.0-Windows-arm64-Setup.exe
+e9f770517f9a5307d626eae465a83cec168cc2981d12b0d4269de2e15cfcdab6  VectorCraft-0.10.0-Windows-x64-Setup.exe
+be751818cb2d159647abe81cbbfd2a1caf279e4f12e9bc73e6b6025817213ffd  VectorCraft-0.10.0-Windows-arm64-Setup.exe
 ```
