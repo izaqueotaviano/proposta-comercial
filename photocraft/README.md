@@ -21,6 +21,6 @@ Não precisa de senha de administrador. Para desinstalar: *Configurações › A
 ## SHA-256
 
 ```
-09f226a18049f8a5f18ba89654cc808946503ce3042ab139129aebb96780906c  PhotoCraft-0.8.2-Windows-x64-Setup.exe
-abce560bcd32572c9d77ad08e005398b2a4cc864a7168219aad6b3f97ba6e9ff  PhotoCraft-0.8.2-Windows-arm64-Setup.exe
+d9de986788a05287e1aa129314df2906b1245060508ee1c2e05d9a961b6a87b0  PhotoCraft-0.8.2-Windows-x64-Setup.exe
+e064f1aa6e2ad3798d396cf4ec72be118a248899e869ecfb704e1aa6925414b1  PhotoCraft-0.8.2-Windows-arm64-Setup.exe
 ```
